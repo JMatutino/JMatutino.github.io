@@ -11,8 +11,12 @@ body {
 .exp_title {
   font-weight: bold;
 }
+#pic_div {
+  text-align: center;  
+}
 #my_pic {
+  position: absolute;
   margin-top: 15px;
-  max-width: 10%;
-  max-height: 10%;
+  max-width: 15%;
+  max-height: 15%;
 }
