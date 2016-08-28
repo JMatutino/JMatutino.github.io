@@ -11,3 +11,8 @@ body {
 .exp_title {
   font-weight: bold;
 }
+#my_pic {
+  margin-top: 15px;
+  max-width: 10%;
+  max-height: 10%;
+}
